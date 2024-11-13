@@ -1,0 +1,13 @@
+{
+  "name": "yu-gi-oh-damage-calculator",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js",
+    "start-ollama": "ollama start"
+  },
+  "dependencies": {
+    "openai": "^4.72.0",
+    "vosk": "^0.3.39"
+  }
+}
